@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 
 using Xamarin.Forms;
-
+　
 namespace BMI
 {
     public partial class App : Application
